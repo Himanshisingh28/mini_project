@@ -34,5 +34,5 @@ It allows users to generate secure passwords based on selected criteria.
 
 🔹 Author
 ## Author
-Muskan  
+himanshi  
 Aspiring Full Stack Developer

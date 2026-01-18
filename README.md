@@ -32,10 +32,6 @@ It allows users to generate secure passwords based on selected criteria.
 1. Download or clone the repository
 2. Open `index.html` in any browser
 
-🔹 Live Demo (agar GitHub Pages pe deploy kiya ho)
-## Live Demo
-https://your-username.github.io/password-generator/
-
 🔹 Author
 ## Author
 Muskan  

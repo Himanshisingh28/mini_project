@@ -27,5 +27,5 @@ It allows users to generate secure passwords based on selected criteria.
 2. Open `index.html` in any browser
 
 ## Author
-Himanshi  
+Himanshee
 Aspiring Full Stack Developer

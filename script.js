@@ -30,7 +30,6 @@ function generatePassword() {
 
     document.getElementById("password").value = password;
 }
-
 function copyPassword() {
     const passwordField = document.getElementById("password");
     passwordField.select();
